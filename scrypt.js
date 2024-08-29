@@ -10,5 +10,5 @@ let button = document.getElementById('no')
 
         const btn = document.getElementById('yes')
         btn.addEventListener('click', function(){
-            alert('Obrigado...')
+            alert('SÓ PRECISO DE DINHEIRO PRA COMPRAR UM MÉ...')
         })
