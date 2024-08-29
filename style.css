@@ -6,6 +6,7 @@
 }
 
 body{
+    background-image: url(img/51-selecao.webp);
     background-color: #1d1c47;
     display: flex;
     justify-content: center;
