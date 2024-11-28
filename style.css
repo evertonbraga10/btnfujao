@@ -6,9 +6,9 @@
 }
 
 body{
-    background-image: url(img/51-selecao.webp);
+    background-image: url(img/reacoes-de-amor-com-fundo-de-espaco-vazio.png);
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
@@ -22,8 +22,8 @@ body{
     color: #fff;
     height: 250px;
     width: 420px;
-    border-radius: 16px;
-    background-color: gray;
+    border-radius: 50px;
+    background-color: rgb(170, 13, 13);
     flex-direction: column;
     display: flex;
     align-items: center;
